@@ -1,4 +1,8 @@
 Models: Model is a formula with weights.
+
 Is LL Model weights == parameters: 
 No, weights are not strictly equal to parameters—all weights are parameters, but not all parameters are weights. 
 In an LLM, parameters are all the internal numerical values learned during training, which include weights as well as biases (and occasionally other learned scalars/norms)
+
+
+CPU vs GPU = Sequential vs Parallel processing
