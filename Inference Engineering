@@ -6,3 +6,5 @@ In an LLM, parameters are all the internal numerical values learned during train
 
 
 CPU vs GPU = Sequential vs Parallel processing
+
+vllm- a model server - built on top of pytorch
