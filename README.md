@@ -9,3 +9,4 @@ https://github.com/ziash/nvidia-nca-aiio-study-guide
 
 AI Infrastructure Explained (GPUs, vLLM, and LLM-D)
 https://www.youtube.com/watch?v=hBzUokVYQkI
+https://www.couchbase.com/blog/ai-inference-vs-training/
